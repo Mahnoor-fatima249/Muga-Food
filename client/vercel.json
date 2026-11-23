@@ -1,0 +1,8 @@
+{
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "routes": {
+    "/api/*": "http://localhost:5000/:path*"
+  }
+}

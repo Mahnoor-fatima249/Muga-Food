@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+p-lock.yaml
+
+# Environment variables
+.env
+
+# Production build
+/dist
+/build
+
+# Misc
+.DS_Store
+*.suo
+*.user
+*.cmdstate
